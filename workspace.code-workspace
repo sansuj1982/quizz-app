@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "../../octo-lamp-five"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "octo-lamp-five"
+	}
+}
